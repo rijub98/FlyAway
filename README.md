@@ -13,5 +13,5 @@ Packages Installed:
 6. VisualStudio.Web.CodeGeneration.Design
 7. Swashbuckle.AspNetCore
 
-After making changes, create a new migration in cmd using add-migration <migration_name>
-Update it to database using update-database cmd
+After making changes, create a new migration in cmd using add-migration <migration_name><br>
+Update it to the database using update-database cmd
